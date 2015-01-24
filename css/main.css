@@ -6,3 +6,7 @@ img {
     width: 400px;
     float: left;
 }
+
+p:nth-child(5) {
+    clear: left;
+}
